@@ -25,5 +25,5 @@ jobs:
         image: kyoyko/github-actions-app
         tags: v3, latest
         registry: docker.io
-        username: ${{ secrets.DOCKER_USERNAME }}
-        password: ${{ secrets.DOCKER_PASSWORD }}
+        username: mjh960614@gmail.com
+        password: dckr_pat_pLw8i5KT8zwCxisIp_vSLJRTiTc
